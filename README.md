@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janellemeowers
-- 👀 I’m interested in ...iOS development, Javascript, front end development
-- 🌱 I’m currently learning ...Swift
+- 👀 I’m interested in ...Python, iOS development, Javascript, front end development
+- 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...https://www.linkedin.com/in/myersjanelle/
 
 <!---
