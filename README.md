@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janellemeowers
-- 👀 I’m interested in ...Python, iOS development, Javascript, front end development
+- 👀 I’m interested in ...Python, Javascript, front end development, iOS development, 
 - 🌱 I’m currently learning ...Python
 - 📫 How to reach me ...https://www.linkedin.com/in/myersjanelle/
 - ✅ Check out a few of my projects:
