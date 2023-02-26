@@ -6,7 +6,7 @@
 - Blog w/ login/comment section: https://janelle-blog.onrender.com/ 
 - Flask, Bootstrap, DB app to display favorite films: https://favorite-movies.onrender.com/
 - To Do app w/ Python, Flask: https://awesome-todo-list.onrender.com/
-- Flower Species ML app: https://github.com/janellemeowers/WhatFlower
+- Flower Species ML Swift app: https://github.com/janellemeowers/WhatFlower
 
 <!---
 janellemeowers/janellemeowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
