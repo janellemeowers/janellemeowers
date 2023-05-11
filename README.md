@@ -6,7 +6,7 @@
 - **Blog** w/ login/comment section: https://janelle-blog.onrender.com/ 
 - **A Marvel comics generator** using Python, API, Flask: https://marvel-comics-discoverer.onrender.com/
 - A **modern UI/UX website** made with React: https://github.com/janellemeowers/restaurant_react_site
-- Social media Pin sharing full-stack app: https://shareme-jmyers.netlify.app/
+- Social media **Pin sharing** full-stack app: https://shareme-jmyers.netlify.app/
 - Analyzing the space race using Python, Pandas, Plotly etc: https://github.com/janellemeowers/space-race-data-analysis
 
 <!---
