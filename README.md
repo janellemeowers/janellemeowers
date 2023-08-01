@@ -8,7 +8,7 @@
 - A **modern UI/UX website** made with React: https://github.com/janellemeowers/restaurant_react_site
 - **E-commerce React** site with Stripe checkout: https://headphones-jmyers.vercel.app/
 
-- Analyzing the space race using Python, Pandas, Plotly etc: https://github.com/janellemeowers/space-race-data-analysis
+- **Analyzing** the space race using Python, Pandas, Plotly etc: https://github.com/janellemeowers/space-race-data-analysis
 
 <!---
 janellemeowers/janellemeowers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
