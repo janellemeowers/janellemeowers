@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @janellemeowers
-- 👀 I’m interested in ...Javascript, Python, front end development, Data 
-- 🌱 I’m currently learning...React 
+- 👀 I’m interested in ...front end development, Data 
+- 🌱 I’m currently learning...React, Tableau
 - 📫 How to reach me ...https://www.linkedin.com/in/myersjanelle/
 - ✅ Check out a few of my projects:
 - Social media **Pin sharing** React full-stack app: https://shareme-jmyers.netlify.app/
